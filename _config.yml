@@ -3,3 +3,14 @@ title: Zi Li Winnie Hoe
 #description: text below image
 show_downloads: true 
 theme: minima
+sass:
+  style: compressed
+---
+---
+
+@import "minima";
+
+/* Set Times New Roman globally */
+body, h1, h2, h3, h4, h5, h6, p, li, a {
+  font-family: "Times New Roman", Times, serif;
+}
