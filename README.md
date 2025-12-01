@@ -1,4 +1,5 @@
-# cv
+# Performance Nutritionist M.S.c, PgDip
+# Seeking PhD position in Nutrition 
 
 ### Education 
 Atlantic Technological University, Master of Science
@@ -13,4 +14,4 @@ Founder and Community Manager – Luzern Expat Group
 - Coordinated events and engagement with a track record of 200 reviews
 - Developed strategies for inclusive community building
 
-### Research Interest
+### Research Interests
